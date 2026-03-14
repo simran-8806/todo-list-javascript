@@ -39,13 +39,7 @@ todo-App
 
 ## 📸 Screenshot
 
-
-
-Example:
-
-```
 ![Todo App Screenshot](images/screenshot.png)
-```
 
 ---
 
