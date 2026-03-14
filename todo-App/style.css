@@ -1,3 +1,25 @@
+/* --- Mobile Responsiveness --- */
+@media screen and (max-width: 600px) {
+    .row {
+        /* Stack the input and button vertically */
+        flex-direction: column;
+        gap: 10px; /* Adds space between the input and the button */
+        padding: 10px;
+        background: transparent; /* Optional: clear background if it looks crowded */
+    }
+
+    .row .input-box {
+        width: 100%; /* Makes the input box fill the width */
+        border-radius: 20px;
+        padding: 12px;
+    }
+
+    .row .btn {
+        width: 100%; /* Makes the button fill the width */
+        border-radius: 20px;
+        padding: 12px;
+    }
+}
 *{
     margin: 0;
     padding: 0;
@@ -10,6 +32,7 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #153677 ,#4e085f);
     padding: 10px; 
+    margin: 10px auto;
 }
 
 .todo-app{
@@ -48,6 +71,7 @@ input{
     outline: none;
     background: transparent;
     padding: 10px;
+    
 }
 .btn{
     border: none;
@@ -58,6 +82,7 @@ input{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+   
 }
 
 ul li{
