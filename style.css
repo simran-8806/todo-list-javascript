@@ -9,15 +9,15 @@
     }
 
     .row .input-box {
-        width: 100%; /* Makes the input box fill the width */
+        width: 100%;        /* Makes the input box fill the width */
         border-radius: 20px;
         padding: 12px;
     }
 
     .row .btn {
-        width: 100%; /* Makes the button fill the width */
+        width: 100%;            /* Makes the button fill the width */
         border-radius: 20px;
-        padding: 12px;
+        padding: 12px;      
     }
 }
 *{
