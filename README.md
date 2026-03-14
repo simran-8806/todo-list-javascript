@@ -47,9 +47,9 @@ todo-App
 
 You can view the live project here:
 
-```
-(Add your GitHub Pages link here)
-```
+
+[Click here to view the Live Demo](https://simran-8806.github.io/todo-list-javascript/)
+
 
 ## 🎯 What I Learned
 
